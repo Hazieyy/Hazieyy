@@ -2,7 +2,7 @@
 - 👀 I’m interested in expanding and perfecting my coding skills
 - 🌱 I’m currently learning Commerce but i did a short course in Software Development
 - 💞️ I’m looking to collaborate?
-- 📫 How to reach me 
+- 📫 How to reach me; through email @hazeiyyy04@gmail.com
 
 <!---
 Hazieyy/Hazieyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
